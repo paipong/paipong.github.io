@@ -4,7 +4,7 @@
 
 ---
 
-##说明
+## 说明
 
 这是我的个人网站：https://paipong.github.io
 
