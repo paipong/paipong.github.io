@@ -16,9 +16,9 @@
 
 > - [01.从幸福到喜悦](/01the second mountain.md/)
 
-## 业务范围
 
-### [成人学历提升攻略](https://paipong.github.io/paipong.github.io-adult-education/#/)
+
+## [成人学历提升攻略](https://paipong.github.io/paipong.github.io-adult-education/#/)
 > 
 >**为什么一定要提升学历？**
 >
