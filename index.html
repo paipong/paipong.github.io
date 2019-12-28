@@ -31,34 +31,51 @@
   <script>
     window.$docsify = {
       name: '',
-      repo: 'https://github.com/paipong/paipong.github.io',
-      ga: 'UA-151199059-1',
+      repo: 'https://paipong.github.io/paipong.github.io-adult-education/',
+      ga: 'UA-150375466-1',
       noEmoji: true,
       loadNavbar: true,
+      loadSidebar: false,
+      subMaxLevel: 3,
       coverpage: true,
-      onlyCover: false,
+      // onlyCover: true,
+      coverpage: [
+        '/',
+        '/the-self-cultivation-of-leeks/cn/',
+        '/the-self-cultivation-of-leeks/en/',
+        '/i-have-a-say/',
+        '/befriending-time/',
+        '/ji/',
+        '/everyone-can-use-english/',
+        '/bitcoin-whitepaper-cn-en-translation/Bitcoin-Whitepaper-EN-CN.html',
+        '/tsxl/',
+        '/hanshou/',
+        '/open_university/'
+        ],
+
       search: 'auto',
       // complete configuration parameters
       search: {
-       
+
       maxAge: 86400000, // Expiration time, the default one day
       paths: [
         '/',
-        '/cn/',            // => /README.md
-        '/en/',      // => /en/README.md
+        '/the-self-cultivation-of-leeks/cn/',
+        '/the-self-cultivation-of-leeks/en/',
+        '/i-have-a-say/',
+        '/befriending-time/',
+        '/ji/',
+        '/everyone-can-use-english/',
+        '/bitcoin-whitepaper-cn-en-translation/Bitcoin-Whitepaper-EN-CN.html',
+        '/tsxl/',
+        '/hanshou/',
+        '/open_university'
       ], // or 'auto'
       // Localization
       placeholder: {
         '/': 'Search',
-        '/cn/': '在此输入并搜索',
-        '/en/': 'Type to search'
       },
       noData: 'No Results!',
-      // Localization
-      noData: {
-        '/cn/': '找不到结果',
-        '/en/': 'No Results'
-      },
       // Headline depth, 1 - 6
       depth: 2,
       hideOtherSidebarContent: false, // whether or not to hide other sidebar content
