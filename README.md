@@ -14,7 +14,7 @@
 
 【美】戴维·布鲁克斯，万维钢精英日课3
 
-> - [01.从幸福到喜悦](/the second mountain/)
+### [01.从幸福到喜悦](/the second mountain/)
 
 
 
