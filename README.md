@@ -14,12 +14,12 @@
 
 【美】戴维·布鲁克斯，万维钢精英日课3
 
-> - [01.从幸福到喜悦](/01the second mountain.md/)
+> - [01.从幸福到喜悦](/the second mountain.md/)
 
 
 
 ## [成人学历提升攻略](https://paipong.github.io/paipong.github.io-adult-education/#/)
-> 
+>
 >**为什么一定要提升学历？**
 >
 > 为什么要提升学历，提升学历有什么意义，有哪些重要意义，既花钱又花时间到底值不值？
